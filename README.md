@@ -4,6 +4,7 @@ Yggdrasil Plug and Play Linux Fall 1994
 Read more at
 
   - Reddit: https://www.reddit.com/r/linux/comments/cbfr32/yggdrassil_plug_and_play_linux_fall_1994/
+  - linux-user.gr (Greek): https://linux-user.gr/t/yggdrassil-plug-and-play-linux-fall-1994/798
 
 ## Get the ISO
 The GitHub needs money for LFS storage, so I delete and recreate the repository.
