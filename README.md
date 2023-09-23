@@ -5,6 +5,9 @@ Read more at
 
   - Reddit: https://www.reddit.com/r/linux/comments/cbfr32/yggdrassil_plug_and_play_linux_fall_1994/
   - linux-user.gr (Greek): https://linux-user.gr/t/yggdrassil-plug-and-play-linux-fall-1994/798
+  - Series of setup videos on contributor's YouTube channel (Russian): https://youtube.com/playlist?list=PLj9iOWMU_RtSydy0ZuWc_LD_rRxp53bf0
+
+**QEMU and VirtualBox is not working! Use a 86Box for boot this distro!**
 
 ## Get the ISO
 The GitHub needs money for LFS storage, so I delete and recreate the repository.
@@ -24,3 +27,8 @@ For install to 86Box, use this parameters:
   - Network: NE2000 ISA is recommended for any Yggdrasil releases. Better using SLiRP host backend for Internet access from Yggdrasil.
 
 You must setup HDD geometry in BIOS on pre-Pentium machines because early BIOSes not support autodetect of HDDs on POST stage (but BIOS Setup autodetect is supported in 486's BIOS). Also, you must check format of FDD and change to installed format.
+
+# Contributors
+
+- Ioannis Tsagkatakis (@jtsagata) - author of this repository, linux-user.gr founder.
+- Egor Gavrilov (@gavrilovegor519) - repository's commiter, wrote and fixing most a guide.
