@@ -27,8 +27,3 @@ For install to 86Box, use this parameters:
   - Network: NE2000 ISA is recommended for any Yggdrasil releases. Better using SLiRP host backend for Internet access from Yggdrasil.
 
 You must setup HDD geometry in BIOS on pre-Pentium machines because early BIOSes not support autodetect of HDDs on POST stage (but BIOS Setup autodetect is supported in 486's BIOS). Also, you must check format of FDD and change to installed format.
-
-# Contributors
-
-- Ioannis Tsagkatakis (@jtsagata) - author of this repository, linux-user.gr founder, wrote initial text of README.md, providing needed files for boot Fall 1994 release.
-- Egor Gavrilov (@gavrilovegor519) - repository's commiter, wrote and fixing most a guide.
