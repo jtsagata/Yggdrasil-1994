@@ -10,7 +10,7 @@ Read more at
 **QEMU and VirtualBox is not working! Use a 86Box for boot this distro!**
 
 ## Get the ISO
-The GitHub needs money for LFS storage, so I delete and recreate the repository.
+The GitHub needs money for LFS storage, so @jtsagata delete and recreate the repository.
 
 Get the ISO from https://drive.google.com/file/d/12EjeCiAxFqvTKL4x5H9UbY7yvnIzrKj7/view
 
