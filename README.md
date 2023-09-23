@@ -3,7 +3,7 @@ Yggdrasil Plug and Play Linux Fall 1994
 
 Read more at
 
-  - Reddit: https://www.reddit.com/r/linux/comments/cbfr32/yggdrassil_plug_and_play_linux_fall_1994/
+  - Reddit (English): https://www.reddit.com/r/linux/comments/cbfr32/yggdrassil_plug_and_play_linux_fall_1994/
   - linux-user.gr (Greek): https://linux-user.gr/t/yggdrassil-plug-and-play-linux-fall-1994/798
   - Series of setup videos on @gavrilovegor519 YouTube channel (Russian): https://youtube.com/playlist?list=PLj9iOWMU_RtSydy0ZuWc_LD_rRxp53bf0
 
